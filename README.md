@@ -1,5 +1,6 @@
 # Easy-Caculator
 Basic calculator made with Python
 
-Run the file in PyCharm
+Opens a CMD window 
+
 Contains (+, -, *, /)
